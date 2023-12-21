@@ -3,6 +3,7 @@
   "description": "Import Export .csv file",
   "type": "library",
   "homepage": "https://github.com/OpenKeyCode/laravel-csv",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Muhammadislom",
