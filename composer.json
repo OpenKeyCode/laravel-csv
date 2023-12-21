@@ -1,5 +1,5 @@
 {
-  "name": "openkeycode/laravel-csv",
+  "name": "openkeycode/laravel-csv-p",
   "description": "Import Export .csv file",
   "type": "library",
   "homepage": "https://github.com/OpenKeyCode/laravel-csv",
@@ -34,7 +34,7 @@
   "extra": {
     "laravel": {
       "aliases": {
-        "Laravelcsv": "Openkeycode\\Laravelcsv\\Facades\\LaravelCsvFacade"
+        "laravelcsv": "Openkeycode\\Laravelcsv\\Facades\\LaravelCsvFacade"
       },
       "providers": [
         "Openkeycode\\Laravelcsv\\Providers\\LaravelCsvServiceProvider"
