@@ -34,7 +34,7 @@
   "extra": {
     "laravel": {
       "aliases": {
-        "oneId": "Openkeycode\\Laravelcsv\\Facades\\LaravelCsvFacade"
+        "Laravelcsv": "Openkeycode\\Laravelcsv\\Facades\\LaravelCsvFacade"
       },
       "providers": [
         "Openkeycode\\Laravelcsv\\Providers\\LaravelCsvServiceProvider"
