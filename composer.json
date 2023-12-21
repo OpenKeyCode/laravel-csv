@@ -3,6 +3,10 @@
   "description": "Import Export .csv file",
   "type": "library",
   "homepage": "https://github.com/OpenKeyCode/laravel-csv",
+  "support": {
+    "issues": "https://github.com/OpenKeyCode/laravel-csv/issues",
+    "source": "https://github.com/OpenKeyCode/laravel-csv"
+  },
   "version": "1.0.0",
   "authors": [
     {
@@ -12,6 +16,8 @@
       "role": "Developer"
     }
   ],
+  "require-dev": {
+  },
   "require": {
     "php": ">=8.0"
   },
