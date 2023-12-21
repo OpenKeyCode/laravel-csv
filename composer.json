@@ -1,5 +1,5 @@
 {
-  "name": "openkeycode/laravel-csv-p",
+  "name": "openkeycode/laravel-csv",
   "description": "Import Export .csv file",
   "type": "library",
   "homepage": "https://github.com/OpenKeyCode/laravel-csv",
