@@ -16,7 +16,12 @@
   },
   "autoload": {
     "psr-4": {
-      "OpenKeyCode\\LaravelCsv\\": "src"
+      "OpenKeyCode\\LaravelCsv\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "OpenKeyCode\\LaravelCsv\\Test\\": "tests/"
     }
   },
   "extra": {
