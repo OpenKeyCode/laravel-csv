@@ -22,7 +22,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "OpenKeyCode\\laravelCsv\\Providers\\LaravelCsvServiceProvider"
+        "OpenKeyCode\\laravelCsv\\Providers\\LaravelCsvServiceProviders"
       ]
     }
   }
