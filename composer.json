@@ -1,0 +1,29 @@
+{
+  "name": "openkeycode/laravel-csv",
+  "description": "Import Export .csv file",
+  "type": "library",
+  "homepage": "https://github.com/OpenKeyCode/laravel-csv",
+  "authors": [
+    {
+      "name": "Muhammadislom",
+      "email": "islom.pr@gmail.com",
+      "homepage": "https://github.com/muhammadislom",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "OpenKeyCode\\LaravelCsv": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "OpenKeyCode\\laravelCsv\\Providers\\LaravelCsvServiceProvider"
+      ]
+    }
+  }
+}
