@@ -1,6 +1,6 @@
 <?php
 
-namespace Openkeycode\LaraveCsv\Providers;
+namespace Openkeycode\Laravelcsv\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

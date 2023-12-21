@@ -1,6 +1,6 @@
 <?php
 
-namespace Openkeycode\LaraveCsv\Facade;
+namespace Openkeycode\Laravelcsv\Facade;
 use Illuminate\Support\Facades\Facade;
 
 class LaravelCsvFacade extends Facade
