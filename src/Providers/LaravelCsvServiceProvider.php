@@ -1,8 +1,10 @@
 <?php
 
-namespace Providers;
+namespace Openkeycode\LaraveCsv\Providers;
 
-class LaravelCsvServiceProvider
+use Illuminate\Support\ServiceProvider;
+
+class LaravelCsvServiceProvider extends ServiceProvider
 {
     public function register()
     {
