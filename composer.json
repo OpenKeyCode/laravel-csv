@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Openkeycode\\LaravelCSV\\": "src"
+      "Openkeycode\\LaravelCSV\\": "src/"
     }
   },
   "autoload-dev": {
